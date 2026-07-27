@@ -137,5 +137,3 @@ public function sendVoiceOTP(Client $ippanel)
 
 این پروژه تحت مجوز **MIT** منتشر شده است.
 ```
-
----
